@@ -1,5 +1,6 @@
 package coen448.computablefuture.test;
 
+// Fail-Fast: any service failure aborts the whole operation (atomic semantics)
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
